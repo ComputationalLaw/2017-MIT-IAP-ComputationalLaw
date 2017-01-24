@@ -58,5 +58,5 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpmHqVOUi1oxyGcvWNJgHZGWmb4OUjBGdpjK7p5iGAqXIfig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-* **Special Opportunity for Area Professionals:** Top practitioners, thought leaders and industry innovators in the areas of digital property, digital transactions and digital identity will be invited to participate in select lecture and discussion sessions of this course and to provide feedback for student projects.  Interested Boston area professionals with expertice and creative ideas related to computational law are invited to contact Dazza Greenwood about potential opportunities to get involved. 
+* **Special Opportunity for Area Professionals:** Top practitioners, thought leaders and industry innovators in the areas of digital property, digital transactions and digital identity will be invited to participate in select lecture and discussion sessions of this course and to provide feedback for student projects.  Interested Boston area professionals with expertice and creative ideas related to computational law are invited to [contact Dazza Greenwood](http://law.MIT.edu/contact) about potential opportunities to get involved. 
 
