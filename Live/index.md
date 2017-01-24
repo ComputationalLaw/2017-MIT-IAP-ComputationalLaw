@@ -1,4 +1,4 @@
-# Live Video and Interaction Page
+# Live Video & Interaction Page
 
 ## Preview of Lecture/Discussion Seminars and Online Mock-Trial
 * Thursday, 4:00-4:30pm Eastern Time, January 26, 2017
