@@ -21,7 +21,10 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 ## Thurday, January 26
 
-Optional pre-course "Legal Analytics" data challenge with the American Bar Association.  Join the collaborative team of Mass Data Analytics Legal Hackers and the Thomson Reuters Innovation Lab for this project to use data science for understanding and making decisions about software as a service contracts. This activity will include project working sessions during the day and a special late-night session for those intersted to participate online at the American Bar Association "Prototype Jam" legal analytics event happening physically in San Diego, California.  For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects
+* **Preview Hangout: Legal Seminar Overview With Q&A**: We will conduct a live hangout on Thursday, January 26th from 4-4:30pm to preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
+* Use this link to join the Q&A and participate in other live online engagement: [http://mit-course.computationallaw.org/Live](http://mit-course.computationallaw.org/Live) or to watch in broadcase mode, use this direct link to live hangout stream: [http://youtu.be/AW9hK1aRxlQ](http://youtu.be/AW9hK1aRxlQ)
+
+* **Legal Hacking:** Optional pre-course "Legal Analytics" data challenge with the American Bar Association.  Join the collaborative team of Mass Data Analytics Legal Hackers and the Thomson Reuters Innovation Lab for this project to use data science for understanding and making decisions about software as a service contracts. This activity will include project working sessions during the day and a special late-night session for those intersted to participate online at the American Bar Association "Prototype Jam" legal analytics event happening physically in San Diego, California.  For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects
 
 
 ## Monday, January 30
@@ -32,6 +35,12 @@ Optional pre-course "Legal Analytics" data challenge with the American Bar Assoc
 * 4:30 pm TBA
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 1
+
+### Optional Social Activities  & Mock Trial Exercise
+
+* **6:15 pm - 7:00 pm Post Class Networking** (venue TBA)
+
+* **7:00 pm - 8:30 pm Mock Trial and Design Charrette** Applying basic legal rules to common business scenaries using new technology, class participants are challenged to argue for or against digital evidence of "enforceable intent to digitally sign" and  "valid informed consent" existed among parties in distributed blockchain transactions, automated web-based systems and self-driving vehicles or other autonomous devices. We explore business, legal and technical approaches to predict, prevent, avoid, reduce, shift or absorb the risks identified in the mock trial exercise.
 
 ## Tuesday, January 31
 
