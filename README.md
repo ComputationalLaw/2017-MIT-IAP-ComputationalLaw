@@ -16,7 +16,7 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 * **Digital Contracts**, including 1) Business, legal and technical interlinkage of blockchain "smart contracts" and legal contracts in automated individual or business transactions; and 2) Standard open-web stack design patterns for executing multiple digital signatures and electronic notarization on digital legal contracts.
 
-* **Legal Hackathon Data Projects**: This course also provides optional opportunities to participate on project teams as part of "Legal Hackathon" style events, including 1) the Cyberlaw Committee of the American Bar Association Cyberlaw Committee "Legal Analytics Prototype Jam" and 2) the Financial Entity Identification and Information Integration (FEIII) "data challenge".   For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects  
+* **Legal Hackathon Data Projects**: This course also provides optional opportunities to participate on project teams as part of "Legal Hackathon" style events, including 1) the Cyberlaw Committee of the American Bar Association Cyberlaw Committee "Legal Analytics Prototype Jam" and 2) the Financial Entity Identification and Information Integration (FEIII) "data challenge".   For more information, see: [https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges](https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges)
 
 
 ## Thurday, January 26
