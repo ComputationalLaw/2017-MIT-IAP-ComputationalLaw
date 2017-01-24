@@ -2,7 +2,7 @@
 
 * **MIT Course Page:** [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
 
-* **Working Course Syllabus:** [http://mit-course.computationallaw.org](http://mit-course.computationallaw.org)
+* **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
 
 # Overview of Topics and Activities
 
