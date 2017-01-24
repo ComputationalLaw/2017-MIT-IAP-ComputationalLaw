@@ -1,4 +1,4 @@
-# 2017 MIT/IAP Computational Law Course Syllabus
+# Computational Law Course Wiki Syllabus
 
 * **MIT Course Page:** [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
 
