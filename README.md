@@ -34,7 +34,7 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 * 2:00 pm Convene Day 1
 * 2:15 pm The Essentials of Property, Contract and Agency Law
 * 2:30 pm Refactoring the Essence of Law for the Age of Digital, Networked Automated Systems
-* 3:00 pm "Intengible Property and Digital Assets" with Guest Speaker [Lynne Weber](http://www.duffandphelps.com/about-us/our-team/lynne-weber)
+* 3:00 pm "Intengible Property and Digital Assets" with Guest Speaker [Lynne Weber](http://www.duffandphelps.com/about-us/our-team/lynne-weber) (timing tentative)
 * 4:30 pm TBA
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 1
@@ -43,14 +43,14 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 * **6:15 pm - 7:00 pm Post Class Networking** (venue tentatiely MIT Media Lab)
 
-* **7:00 pm - 7:30 pm Prep Session for Online Mock Trial** (tentative)
+* **7:00 pm - 7:30 pm Prep Session for Online Mock Trial** (timing tentative)
 
 # Tuesday, January 31
 
 * 2:00 pm Convene Day 2
 * 3:00 pm "From Supply Chain to Blockchain" with Guest Speaker [Michael Casey](https://www.linkedin.com/in/michaeljohncasey), Senior Advisor, Blockchain Research at MIT Media Lab
 * 4:00 pm TBA
-* 4:30 pm Online Mock Trial (tentative timing)
+* 4:30 pm Online Mock Trial (timing tentative)
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 2
 
