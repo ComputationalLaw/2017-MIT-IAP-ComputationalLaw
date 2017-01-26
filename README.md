@@ -33,9 +33,10 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 * 2:00 pm Convene Day 1
 * 2:15 pm The Essentials of Property, Contract and Agency Law
-* 2:30 pm Refactoring the Essence of Law for the Age of Digital, Networked Automated Systems
-* 3:00 pm "Intengible Property and Digital Assets" with Guest Speaker [Lynne Weber](http://www.duffandphelps.com/about-us/our-team/lynne-weber) (timing tentative)
-* 4:30 pm TBA
+* 2:30 pm "Geo-Temporal Optimized Personal Data" with Guest Speaker [Adrienne Meisels](https://www.linkedin.com/in/adriennemeisels)
+* 3:00 pm Refactoring the Essence of Law for the Age of Digital, Networked Automated Systems
+* 4:00 pm TBA
+* 5:00 pm "Valuation of Intengible Property and Digital Assets" with Guest Speaker [Lynne Weber](http://www.duffandphelps.com/about-us/our-team/lynne-weber) 
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 1
 
