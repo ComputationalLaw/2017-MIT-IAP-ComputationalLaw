@@ -23,8 +23,11 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 # Thurday, January 26
 
-* **Preview Hangout: Legal Seminar Overview With Q&A**: We will conduct a live hangout on Thursday, January 26th at 7pm to preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
-* Use this link to join the Q&A and participate in other live online engagement: [http://mit-course.computationallaw.org/Live](http://mit-course.computationallaw.org/Live) or to watch in broadcase mode, use this direct link to live hangout stream: [http://youtu.be/AW9hK1aRxlQ](http://youtu.be/AW9hK1aRxlQ)
+## Preview Hangout: Legal Seminar Overview With Q&A
+
+* We will conduct a live hangout on Thursday, January 26th at 7pm to preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/AW9hK1aRxlQ" frameborder="0" allowfullscreen></iframe>
 
 * **Legal Hacking:** Optional pre-course "Legal Analytics" data challenge with the American Bar Association.  Join the collaborative team of Mass Data Analytics Legal Hackers and the Thomson Reuters Innovation Lab for this project to use data science for understanding and making decisions about software as a service contracts. This activity will include project working sessions during the day and a special late-night session for those intersted to participate online at the American Bar Association "Prototype Jam" legal analytics event happening physically in San Diego, California.  For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects
 
