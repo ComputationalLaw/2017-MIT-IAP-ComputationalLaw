@@ -25,7 +25,7 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 ## Preview Hangout: Legal Seminar Overview With Q&A
 
-* We will conduct a live hangout on Thursday, January 26th at 7pm to preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
+* We will conduct a live hangout on Thursday, January 26th at 7pm to review the ABA Legal Analytics hacking project challenge and preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/AW9hK1aRxlQ" frameborder="0" allowfullscreen></iframe>
 
