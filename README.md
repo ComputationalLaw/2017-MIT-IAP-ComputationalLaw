@@ -38,7 +38,7 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 * 2:15 pm The Essentials of Property, Contract and Agency Law
 * 2:30 pm "Geo-Temporal Optimized Personal Data" with Guest Speaker [Adrienne Meisels](https://www.linkedin.com/in/adriennemeisels)
 * 3:00 pm "Refactoring the Essence of Law for the Age of Digital Networked Automated Systems" with Course Instructor [Dazza Greenwood](http://dazzagreenwood.com)
-* 4:00 pm "Leaning into Computational Transactions", with Guest Speaker [Larry Bridgesmith](https://www.linkedin.com/in/larrybridgesmith) (see [demo of Intraspexion](https://vimeo.com/195220858) before his talk)
+* 4:00 pm "[Leaning into Computational Transactions](https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/edit#slide=id.g1aff91f17a_0_37)", with Guest Speaker [Larry Bridgesmith](https://www.linkedin.com/in/larrybridgesmith) (see [demo of Intraspexion](https://vimeo.com/195220858) before his talk)
 * 5:00 pm "Valuation of Intengible Property and Digital Assets" with Guest Speaker [Lynne Weber](http://www.duffandphelps.com/about-us/our-team/lynne-weber) 
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 1
