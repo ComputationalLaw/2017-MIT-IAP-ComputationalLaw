@@ -1,10 +1,17 @@
-## Computational Law Course Wiki Syllabus
+
+# Computational Law Course 
+
+The course content is organized through a shared deck of Google Slides published under Creative Commons license.
+
+<iframe src="https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+# Working Syllabus
 
 * **MIT Course Page:** [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
 
 * **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
 
-## Overview of Topics and Activities
+## Overview of Course Topics and Activities
 
 Check this space after the DataVR Course Module concludes on January 24, 2017 for links to reading and background materials, scheduled speakers, small group exercises and tutorials sessions.  The schedule will feature:
 
