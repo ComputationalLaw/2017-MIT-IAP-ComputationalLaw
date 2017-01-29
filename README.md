@@ -60,8 +60,8 @@ Check this space after the DataVR Course Module concludes on January 24, 2017 fo
 
 * 2:00 pm Convene Day 2
 * 3:00 pm "From Supply Chain to Blockchain" with Guest Speaker [Michael Casey](https://www.linkedin.com/in/michaeljohncasey), Senior Advisor, Blockchain Research at MIT Media Lab
-* 4:00 pm TBA
-* 4:30 pm Online Mock Trial (timing tentative)
+* 4:00 pm "Legal Hackers" with law.MIT.edu Co-Instructor [Jonathan Askin](https://www.linkedin.com/in/jonathanaskin)
+* 4:30 pm Online Mock Trial 
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 2
 
