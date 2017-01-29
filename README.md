@@ -8,7 +8,7 @@ The course content is organized through a shared deck of Google Slides published
 # Working Syllabus
 
 * **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
-* **MIT Course Page:** [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
+* **MIT Course Page:** [https://law.MIT.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
 
 
 ## Overview of Course Topics and Activities
