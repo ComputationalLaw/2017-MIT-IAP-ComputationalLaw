@@ -237,9 +237,18 @@ Amedeo Mapelli and members of his team will be on hand during the DataVR Module 
 
 
 # Signup 
+
+## NOTE: We are no longer accepting applications for this course
+
 * **Request Permission of Instructor to Enroll:** Using the form embedded below: 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpmHqVOUi1oxyGcvWNJgHZGWmb4OUjBGdpjK7p5iGAqXIfig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 * **Special Opportunity for Area Professionals:** Top practitioners, thought leaders and industry innovators in the areas of digital property, digital transactions and digital identity will be invited to participate in select lecture and discussion sessions of this course and to provide feedback for student projects.  Interested Boston area professionals with expertice and creative ideas related to computational law are invited to [contact Dazza Greenwood](http://law.MIT.edu/contact) about potential opportunities to get involved. 
+
+# Engage
+
+**Note:** This space will provide interfaces and links to Google Forms and other methods for questions, ideas and other comments by participants in the course. Please note, the forms and other processes provided on this page for engaging in this course will change based on the activity happening from time to time during this course.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkIdJv9luOESdq3Ukg-DwZz-VRUIiQ88VmwzoomVquWyah9A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
