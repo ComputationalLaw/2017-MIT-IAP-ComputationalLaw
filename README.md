@@ -77,7 +77,138 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 * Using VR to understand and work with civic data, legal data and educational data
 * Other projects and other activities to be announced.
 
-## Signup 
+# MIT/IAP Computational Law DataVR Workshop
+
+* Shared Slides: https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/pub?start=false&loop=false&delayms=3000 
+
+## In-Person: Room E15-341 
+
+* Workshop GitHub Repo: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR
+* Workshop Landing Page: http://datavr.xyz 
+* Course Description: https://law.mit.edu/Computational-Law-Course 
+* Workshop Photos: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Photos
+
+**Questions?** If you are enrolled in the course, use our GiHub issues tool and a course instructor or volunteer will reply directly: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new
+
+# DataVR Day 2: January 24
+
+* **Live Scratchpad:** https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0
+* **Openning Hangout**: Link: http://youtu.be/CSn8TmETCuQ 
+* **Closing Hangout**: http://youtu.be/LJmC-AKZt6E
+
+##  2-2:30pm - Team Project Updates and Logistics
+* **Welcome, recap and new people introductions**
+* **Team project updates and discussion**
+* Project Slides for: [Before It's Too Late](https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_6)
+* Project Slides for: [ScatterViz](https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_10)
+* Project Slides for: [VR Data and Education](https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.p)
+
+* **Opportunities to start or join new teams**
+
+##  2:30-4:30pm - Rapid Project Design/Prototyping
+* Teams work on projects
+* Roving mentors
+
+## 4:30pm - Pizza Break!
+
+* Thomson Reuters Innovation Lab brings pizza, beverages and other means of innovating law
+
+## 4:45-6:00pm -  Project Presentations and Feedback
+
+* Closing Workshop Hangout Link: http://youtu.be/LJmC-AKZt6E
+
+### Project Slides for: [Before It's Too Late](https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_6)
+* [Project Scratchpad](https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0/edit#heading=h.ygck1wud0zcc)
+
+### Project Slides for: [ScatterViz](https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_10)
+* [Project Scratchpad](https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0/edit#heading=h.i0a7y9iql4et)
+
+### Project Slides for: [VR Data and Education](https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.p)
+* [Project Scratchpad](https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0/edit#heading=h.mitmwmf69nwa)
+
+### Project Slides for: Legal Analytics Data Challenge (TBA)
+* Project Scratchpad (TBA)
+
+## 6:00-6:15pm - (Optional) Wrap up and Next Steps
+
+* Thanks and Wrap Up for Data Visualization with VR Workshop Module
+* Preview of January 30 + 31 Digital Law Lecture and Discussion Sessions
+
+# Other Relevant Links and Info
+
+* **Questions?** If you are enrolled in the course, use our GiHub issues tool and a course instructor or volunteer will reply directly: [https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new)
+* Course Page: [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
+* DataVR Module: [http://datavr.xyz](http://datavr.xyz)
+
+## Participating Online?
+
+* DataVR Module Online Participation Page: [http://datavr.xyz/Online](http://datavr.xyz/Online)
+
+## DataVR Tutorials:
+
+* Simmetri tutorial, by Amedeo Mapelli: [http://simmetri.com/tutorials.html](http://simmetri.com/tutorials.html)
+
+* A-Frame tutorial, by Stephanie Mendoza: [https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf)
+
+### Preview of Simmetri
+
+Amedeo Mapelli and members of his team will be on hand during the DataVR Module to work with students who wish to use Simmetri to develop VR environments for their team projects.  In some cases, student teams with little or no technical skills will be able to use new data visualizations tools being added to Simmetri to get a variety of simple projects started quickly.  Amedeo has kindly offered to assist student teams to develop more complex design goals as part of this course, as time permits.  Below is a preview of some of the new data ingestion, transformation, modeling, visualization and exploration features currently being added to Simmetri:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2qTVJiuEwU" frameborder="0" allowfullscreen></iframe>
+</center>
+
+## DataVR Links and Resources: 
+
+* [https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links)
+
+* This DataVR Module splash page is accessible at: [http://DataVR.xyz](http://DataVR.xyz) and [https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR](https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR)
+
+
+# ARCHIVE
+
+
+# Monday, January 23: DataVR
+
+## * 2-3pm - Talks and Tutorials
+**Live broadcast:** [http://youtu.be/iKUhZAEWxWQ](http://youtu.be/iKUhZAEWxWQ)
+
+**Welcome & Overview:** 
+* Dazza Greenwood, Course Instructor
+
+## Tutorials
+
+### Simmitri
+* Amedeo: How to Use Simmetri for DataVR
+* Live wiki page with resources and more info: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Tools-and-Tech----Simmetri
+
+### A-Frame
+
+* Stephanie: How to Use A-Frame for DataVR
+* https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Tools-and-Tech----A-Frame
+
+**Use Cases and Context:**
+* Hanson and Jenn: Potential of VR for Understanding Climate Science
+* Rick Gilles: Potential of VR for Business Analysis
+* Patrick McCormick: [CIVIC DATA VR - Can government use of Data VR make open, public data more accessible, useful, and impactful?](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/raw/gh-pages/Resources/mit%20data%20vr%20jan17.pdf)
+
+## 3-3:30 Team and Project Formation:
+**Quick round of project idea pitches**
+* Break into teams to develop project ideas
+* Note: Instructors, collaborators and volunteers will work with teams
+
+## Project Pitches:
+
+* Live project scratchpad: https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0/edit
+
+## 3:30-5:30pm - Rapid Project Design/Prototyping
+
+## 5:45-6:15pm - Wrap Up First Day and Next Steps
+
+* Team Project Presentations (YouTube Archive): http://youtu.be/CSn8TmETCuQ
+* Team Project (Slides): https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/pub?start=false&loop=false&delayms=3000
+
+# Signup 
 * **Request Permission of Instructor to Enroll:** Using the form embedded below: 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpmHqVOUi1oxyGcvWNJgHZGWmb4OUjBGdpjK7p5iGAqXIfig/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
