@@ -5,7 +5,7 @@
 
 * **Question/Ideas/Comments? Submit here:** [http://MIT-Course.ComputationalLaw.org/#engage](http://mit-course.computationallaw.org/#engage)
 
-* The course is organized through a [shared deck of Google Slides](https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/edit#slide=id.p) published under Creative Commons license.
+* The course is produced through a periodically updated [shared deck of Google Slides](https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/edit#slide=id.p) published under Creative Commons license.
 
 <iframe src="https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
