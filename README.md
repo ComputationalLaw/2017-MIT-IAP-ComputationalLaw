@@ -11,35 +11,7 @@ The course is organized through a [shared deck of Google Slides](https://docs.go
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/iX8Y-EeF5bQ" frameborder="0" allowfullscreen></iframe>
 
-## Overview of Course Topics and Activities
-
-* **MIT Course Landing Page:** [https://law.MIT.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
-
-* **Legal Analytics**, including 1) AI/Machine Learning for solving legal use cases; and 2) Using VR for data-driven visualization of complex financial relationships and legal contexts
-
-* **Digital Assets**, including: 1) Ownership rights, valuation and provenance of digital property; and 2) Storage and exchange of digital property with electronic contracts, automated transactions and autonomous agents
-
-* **Digital Identity**, including: 1) Technology and architecture for autonomy and control of self-sourced digital identity and personal data; and 2) Using individual identity for valid, verifiable login to apps or services and for providing legal acknowledgement, assent or authorization.
-
-* **Digital Contracts**, including 1) Business, legal and technical interlinkage of blockchain "smart contracts" and legal contracts in automated individual or business transactions; and 2) Standard open-web stack design patterns for executing multiple digital signatures and electronic notarization on digital legal contracts.
-
-* **Online Mock Trial & Design Charrette**: Applying basic legal rules to common business scenaries using new technology, class participants are challenged to argue for or against digital evidence of "enforceable intent to digitally sign" and  "valid informed consent" existed among parties in distributed blockchain transactions, automated web-based systems and self-driving vehicles or other autonomous devices. We explore business, legal and technical approaches to predict, prevent, avoid, reduce, shift or absorb the risks identified in the mock trial exercise.
-
-* **Legal Hackathon Data Projects**: This course also provides optional opportunities to participate on project teams as part of "Legal Hackathon" style events, including 1) the Cyberlaw Committee of the American Bar Association Cyberlaw Committee "Legal Analytics Prototype Jam" and 2) the Financial Entity Identification and Information Integration (FEIII) "data challenge".   For more information, see: [https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges](https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges)
-
-
-## Thurday, January 26
-
-### Preview Hangout: Legal Seminar Overview With Q&A
-
-* We will conduct a live hangout on Thursday, January 26th at 7pm to review the ABA Legal Analytics hacking project challenge and preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/AW9hK1aRxlQ" frameborder="0" allowfullscreen></iframe>
-
-* **Legal Hacking:** Optional pre-course "Legal Analytics" data challenge with the American Bar Association.  Join the collaborative team of Mass Data Analytics Legal Hackers and the Thomson Reuters Innovation Lab for this project to use data science for understanding and making decisions about software as a service contracts. This activity will include project working sessions during the day and a special late-night session for those intersted to participate online at the American Bar Association "Prototype Jam" legal analytics event happening physically in San Diego, California.  For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects
-
-
-## Monday, January 30
+# Day 1: Monday, January 30
 
 * 2:00 pm Convene Day 1
 * 2:15 pm The Essentials of Property, Contract and Agency Law
@@ -50,13 +22,13 @@ The course is organized through a [shared deck of Google Slides](https://docs.go
 * 5:30 pm TBA
 * 6:00 pm Conclude Day 1
 
-### Optional Social Activities  & Mock Trial Exercise
+## Optional Social Activities  & Mock Trial Exercise
 
 * **6:15 pm - 7:00 pm Post Class Networking** (venue tentatiely MIT Media Lab)
 
 * **7:00 pm - 7:30 pm Prep Session for Online Mock Trial** (timing tentative)
 
-## Tuesday, January 31
+# Day 2: Tuesday, January 31
 
 * 2:00 pm Convene Day 2
 * 3:00 pm "From Supply Chain to Blockchain" with Guest Speaker [Michael Casey](https://www.linkedin.com/in/michaeljohncasey), Senior Advisor, Blockchain Research at MIT Media Lab
@@ -77,11 +49,24 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 * Using VR to understand and work with civic data, legal data and educational data
 * Other projects and other activities to be announced.
 
-# MIT/IAP Computational Law DataVR Workshop
+# Preparatory Activities and Events
+
+## Thurday, January 26
+
+### Preview Hangout: Legal Seminar Overview With Q&A
+
+* We will conduct a live hangout on Thursday, January 26th at 7pm to review the ABA Legal Analytics hacking project challenge and preview and discuss the January 30 + 31 lecture/discussion courses on Digital Assets, Identity, Contracts and a preview of the planned online mock trial exercise.  
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/AW9hK1aRxlQ" frameborder="0" allowfullscreen></iframe>
+
+* **Legal Hacking:** Optional pre-course "Legal Analytics" data challenge with the American Bar Association.  Join the collaborative team of Mass Data Analytics Legal Hackers and the Thomson Reuters Innovation Lab for this project to use data science for understanding and making decisions about software as a service contracts. This activity will include project working sessions during the day and a special late-night session for those intersted to participate online at the American Bar Association "Prototype Jam" legal analytics event happening physically in San Diego, California.  For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects
+
+
+# MIT/IAP Computational Law Pre-Course DataVR Workshop
 
 * Shared Slides: https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/pub?start=false&loop=false&delayms=3000 
 
-## In-Person: Room E15-341 
+### In-Person: Room E15-341 
 
 * Workshop GitHub Repo: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR
 * Workshop Landing Page: http://datavr.xyz 
@@ -164,11 +149,7 @@ Amedeo Mapelli and members of his team will be on hand during the DataVR Module 
 
 * This DataVR Module splash page is accessible at: [http://DataVR.xyz](http://DataVR.xyz) and [https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR](https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR)
 
-
-# ARCHIVE
-
-
-# Monday, January 23: DataVR
+# DataVR Day 1: January 23
 
 ## * 2-3pm - Talks and Tutorials
 **Live broadcast:** [http://youtu.be/iKUhZAEWxWQ](http://youtu.be/iKUhZAEWxWQ)
@@ -207,6 +188,25 @@ Amedeo Mapelli and members of his team will be on hand during the DataVR Module 
 
 * Team Project Presentations (YouTube Archive): http://youtu.be/CSn8TmETCuQ
 * Team Project (Slides): https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/pub?start=false&loop=false&delayms=3000
+
+
+# Overview of Course Themes and Activities
+
+* **MIT Course Landing Page:** [https://law.MIT.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
+
+* **Legal Analytics**, including 1) AI/Machine Learning for solving legal use cases; and 2) Using VR for data-driven visualization of complex financial relationships and legal contexts
+
+* **Digital Assets**, including: 1) Ownership rights, valuation and provenance of digital property; and 2) Storage and exchange of digital property with electronic contracts, automated transactions and autonomous agents
+
+* **Digital Identity**, including: 1) Technology and architecture for autonomy and control of self-sourced digital identity and personal data; and 2) Using individual identity for valid, verifiable login to apps or services and for providing legal acknowledgement, assent or authorization.
+
+* **Digital Contracts**, including 1) Business, legal and technical interlinkage of blockchain "smart contracts" and legal contracts in automated individual or business transactions; and 2) Standard open-web stack design patterns for executing multiple digital signatures and electronic notarization on digital legal contracts.
+
+* **Online Mock Trial & Design Charrette**: Applying basic legal rules to common business scenaries using new technology, class participants are challenged to argue for or against digital evidence of "enforceable intent to digitally sign" and  "valid informed consent" existed among parties in distributed blockchain transactions, automated web-based systems and self-driving vehicles or other autonomous devices. We explore business, legal and technical approaches to predict, prevent, avoid, reduce, shift or absorb the risks identified in the mock trial exercise.
+
+* **Legal Hackathon Data Projects**: This course also provides optional opportunities to participate on project teams as part of "Legal Hackathon" style events, including 1) the Cyberlaw Committee of the American Bar Association Cyberlaw Committee "Legal Analytics Prototype Jam" and 2) the Financial Entity Identification and Information Integration (FEIII) "data challenge".   For more information, see: [https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges](https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges)
+
+* This course will adapt the specific content based in part on the priority interests of participants and guest lecturers.
 
 # Signup 
 * **Request Permission of Instructor to Enroll:** Using the form embedded below: 
