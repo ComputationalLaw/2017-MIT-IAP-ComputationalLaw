@@ -1,7 +1,7 @@
 
 # Computational Law Course 
 
-* **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
+**Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
 
 The course is organized through a [shared deck of Google Slides](https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/edit#slide=id.p) published under Creative Commons license.
 
