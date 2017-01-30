@@ -190,6 +190,9 @@ Amedeo Mapelli and members of his team will be on hand during the DataVR Module 
 * Team Project (Slides): https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/pub?start=false&loop=false&delayms=3000
 
 
+
+
+
 # Overview of Course Themes and Activities
 
 * **MIT Course Landing Page:** [https://law.MIT.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
@@ -207,6 +210,33 @@ Amedeo Mapelli and members of his team will be on hand during the DataVR Module 
 * **Legal Hackathon Data Projects**: This course also provides optional opportunities to participate on project teams as part of "Legal Hackathon" style events, including 1) the Cyberlaw Committee of the American Bar Association Cyberlaw Committee "Legal Analytics Prototype Jam" and 2) the Financial Entity Identification and Information Integration (FEIII) "data challenge".   For more information, see: [https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges](https://github.com/ComputationalLaw/2017-MIT-IAP-COURSE/wiki/Legal-Hacker-Project-Challenges)
 
 * This course will adapt the specific content based in part on the priority interests of participants and guest lecturers.
+
+# Computational Law Course Legal Hackathon Project Challenge
+
+## Legal Analytics Prototype Jam
+
+* As part of the 2017 Computational Law course, MIT and Thomson Reuters Labs got together to hack the Legal Analytics Prototype Jam for the ABA Business Law Section.  We prototyped a dashboard to understand jurisdictional issues of cloud contracts.  The use case we chose is a tool to help small businesses understand their exposures to the new EU privacy law by automatically analyzing cloud contracts.
+
+* Working demo site, showing geo-coded jurisdictional law for the same 30 contracts provided by the Legal Analytics subcommittee: [http://romercreative.com/cloudcontracts](http://romercreative.com/cloudcontracts/)
+* Our working project directory for this demo: [https://github.com/LegalAnalytics/Raindrop](https://github.com/LegalAnalytics/Raindrop)
+* Video walkthrough of the demo: [https://www.youtube.com/watch?v=flxbX23Aa2Q](https://www.youtube.com/watch?v=flxbX23Aa2Q)
+* **Our team project page, see: [http://trlabs.prototypejam.org](http://trlabs.prototypejam.org)**
+
+
+### 30 Second Overview Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCByBiFM3Pc" frameborder="0" allowfullscreen></iframe>
+
+### Video Walk Through of Our Team Prototype Jam Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flxbX23Aa2Q" frameborder="0" allowfullscreen></iframe>
+
+## For More Information About
+
+* TR Labs, see [https://innovation.thomsonreuters.com/en/labs.html](https://innovation.thomsonreuters.com/en/labs.html)
+* MIT Computational Law research, see: [https://law.MIT.edu]( https://law.MIT.edu)
+* Thomson Reuters tagging tools and company data, see: [http://permid.org](http://permid.org)
+
 
 # Signup 
 * **Request Permission of Instructor to Enroll:** Using the form embedded below: 
