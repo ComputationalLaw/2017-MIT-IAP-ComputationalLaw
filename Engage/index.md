@@ -1,0 +1,1 @@
+This page will provide interfaces and links to Google Forms and other methods for questions, ideas and other comments by participants in the course.  Please note, the forms and other processes provided on this page for engaging in this course will change based on the activity happening from time to time during this course. 
