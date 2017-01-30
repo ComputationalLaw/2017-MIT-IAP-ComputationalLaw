@@ -1,6 +1,8 @@
 
 # Computational Law Course 
 
+* **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
+
 The course is organized through a [shared deck of Google Slides](https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/edit#slide=id.p) published under Creative Commons license.
 
 <iframe src="https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -9,15 +11,9 @@ The course is organized through a [shared deck of Google Slides](https://docs.go
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/iX8Y-EeF5bQ" frameborder="0" allowfullscreen></iframe>
 
-# Working Syllabus
-
-* **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
-* **MIT Course Page:** [https://law.MIT.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
-
-
 ## Overview of Course Topics and Activities
 
-Check this space after the DataVR Course Module concludes on January 24, 2017 for links to reading and background materials, scheduled speakers, small group exercises and tutorials sessions.  The schedule will feature:
+* **MIT Course Landing Page:** [https://law.MIT.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
 
 * **Legal Analytics**, including 1) AI/Machine Learning for solving legal use cases; and 2) Using VR for data-driven visualization of complex financial relationships and legal contexts
 
