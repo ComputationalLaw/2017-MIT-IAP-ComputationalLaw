@@ -5,6 +5,10 @@ The course is organized through a [shared deck of Google Slides](https://docs.go
 
 <iframe src="https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Livestream
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/iX8Y-EeF5bQ" frameborder="0" allowfullscreen></iframe>
+
 # Working Syllabus
 
 * **Working Course Syllabus:** [http://MIT-Course.ComputationalLaw.org](http://mit-course.computationallaw.org)
