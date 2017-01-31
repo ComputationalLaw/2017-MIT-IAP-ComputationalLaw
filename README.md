@@ -9,10 +9,11 @@
 
 <iframe src="https://docs.google.com/presentation/d/1XmjDgQ_I5U2c1t6gE1TbkHYt0Sz9Bm9jMMHqGjNJuLM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Livestream
+## Day 2 Livestream
 
-* Updated Hangout Link: http://youtu.be/NNCx1A1SWDY
+<iframe width="420" height="315" src="http://www.youtube.com/embed/xbU3lAHfXUs" frameborder="0" allowfullscreen></iframe>
 
+### Day 1 Video Archive
 <iframe width="420" height="315" src="http://www.youtube.com/embed/NNCx1A1SWDY" frameborder="0" allowfullscreen></iframe>
 
 # Day 1: Monday, January 30
