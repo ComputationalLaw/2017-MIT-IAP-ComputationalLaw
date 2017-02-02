@@ -80,6 +80,49 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 
 **Questions?** If you are enrolled in the course, use our GiHub issues tool and a course instructor or volunteer will reply directly: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new
 
+
+<h2>Team Projects:</h2>
+
+<ul>
+	<li><a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_6">Before It&rsquo;s Too Late</a></li>
+	<li><a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_10">ScatterViz</a></li>
+	<li><a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.p">VRData for Education</a></li>
+</ul>
+
+<h2>Video Archive</h2>
+
+<p>January 23 Video Archive: DataVR Wrap Up Session for Day One - Project Presentations</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KXoqk7AMxi4" width="560"></iframe></p>
+
+<hr />
+<p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Small Group Project Breakouts</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/CSn8TmETCuQ" width="560"></iframe></p>
+
+<hr />
+<p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Project Demos/Discussions and Workshop Wrapup<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LJmC-AKZt6E" width="560"></iframe></p>
+
+<p>&nbsp;</p>
+
+<hr />
+<h2>Workshop Syllabus and Resources Page</h2>
+
+<p><iframe height="915" src="https://docs.google.com/document/d/1Op2oep5lGPynx-ToBVyUexPItlAT5Ywy9gLTvMeMkGo/pub?embedded=true" width="960"></iframe></p>
+
+<hr />
+<p>&nbsp;</p>
+
+<h2>Workshop Participant Scratch Pad</h2>
+
+<p><iframe height="915" src="https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0/pub?embedded=true" width="960"></iframe></p>
+
+<hr />
+<p><span style="font-size:16px;"><strong>Workshop Photos:</strong></span></p>
+
+<p>Posted at: <a href="https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Photos">https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Photos</a></p>
+
+
 # DataVR Day 1: January 23
 
 ## * 2-3pm - Talks and Tutorials
