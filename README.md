@@ -67,7 +67,7 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 * **Legal Hacking:** Optional pre-course "Legal Analytics" data challenge with the American Bar Association.  Join the collaborative team of Mass Data Analytics Legal Hackers and the Thomson Reuters Innovation Lab for this project to use data science for understanding and making decisions about software as a service contracts. This activity will include project working sessions during the day and a special late-night session for those intersted to participate online at the American Bar Association "Prototype Jam" legal analytics event happening physically in San Diego, California.  For more information, see: https://github.com/HumanDynamics/Workshops/wiki/Hackathon-and-Other-Challenge-Projects
 
 
-# MIT/IAP Computational Law Pre-Course DataVR Workshop
+# Pre-Course DataVR Workshop
 
 * Shared Slides: https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/pub?start=false&loop=false&delayms=3000 
 
@@ -91,26 +91,29 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 
 <h2>Video Archive</h2>
 
-<p>January 23 Video Archive: DataVR Wrap Up Session for Day One - Project Presentations</p>
+### January 23 Video Archive: 
+* DataVR Wrap Up Session for Day One - Project Presentations
 
-<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KXoqk7AMxi4" width="560"></iframe></p>
-
-<hr />
-<p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Small Group Project Breakouts</p>
-<p>
-
-<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/CSn8TmETCuQ" width="560"></iframe></p>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KXoqk7AMxi4" width="560"></iframe>
 
 <hr />
-
-<p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Project Demos/Discussions and Workshop Wrapup</p>
-
+### January 24 Video Archive 1
+* Computational Law DataVR Workshop Day 2: Small Group Project Breakouts
 <p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LJmC-AKZt6E" width="560"></iframe></p>
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/CSn8TmETCuQ" width="560"></iframe>
+
+<hr />
+
+### January 24 Video Archive 2: 
+* Computational Law DataVR Workshop Day 2: Project Demos/Discussions and Workshop Wrapup
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LJmC-AKZt6E" width="560"></iframe>
 
 <p>&nbsp;</p>
 
 <hr />
+
 <h2>Workshop Syllabus and Resources Page</h2>
 
 <p><iframe height="915" src="https://docs.google.com/document/d/1Op2oep5lGPynx-ToBVyUexPItlAT5Ywy9gLTvMeMkGo/pub?embedded=true" width="960"></iframe></p>
