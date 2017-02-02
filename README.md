@@ -81,13 +81,12 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 **Questions?** If you are enrolled in the course, use our GiHub issues tool and a course instructor or volunteer will reply directly: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new
 
 
-##Team Projects:
+## Team Projects:
 
-<ul>
-	<li><a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_6">Before It&rsquo;s Too Late</a></li>
-	<li><a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_10">ScatterViz</a></li>
-	<li><a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.p">VRData for Education</a></li>
-</ul>
+* <a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_6">Before It&rsquo;s Too Late</a></li>
+* <a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.g1a7aafe551_1_10">ScatterViz</a></li>
+* <a href="https://docs.google.com/presentation/d/1cfpayqcqfT4MN50KhOHbzEFytVunJk-5fKJ03Kg8JF0/edit#slide=id.p">VRData for Education</a></li>
+
 
 
 ## Video Archive
@@ -99,19 +98,19 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 
 
 ### January 24 Video Archive 1
+
 * Computational Law DataVR Workshop Day 2: Small Group Project Breakouts
-<p>
+
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/CSn8TmETCuQ" width="560"></iframe>
 
 
 
 ### January 24 Video Archive 2: 
+
 * Computational Law DataVR Workshop Day 2: Project Demos/Discussions and Workshop Wrapup
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LJmC-AKZt6E" width="560"></iframe>
-
-<p>&nbsp;</p>
 
 
 
@@ -125,7 +124,7 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 
 <p><iframe height="915" src="https://docs.google.com/document/d/1vhTuu_nPTF88xpE9PtmyQuPait38ai-2PFOZs_6Wxf0/pub?embedded=true" width="960"></iframe></p>
 
-<hr />
+
 <p><span style="font-size:16px;"><strong>Workshop Photos:</strong></span></p>
 
 <p>Posted at: <a href="https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Photos">https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Photos</a></p>
