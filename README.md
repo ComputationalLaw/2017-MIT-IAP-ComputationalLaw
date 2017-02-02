@@ -97,11 +97,16 @@ From 7-9pm on January 31st, join the inaugural computational law "Tuesday Hack N
 
 <hr />
 <p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Small Group Project Breakouts</p>
+<p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/CSn8TmETCuQ" width="560"></iframe></p>
 
 <hr />
-<p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Project Demos/Discussions and Workshop Wrapup<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LJmC-AKZt6E" width="560"></iframe></p>
+
+<p>January 24 Video Archive: Computational Law DataVR Workshop Day 2: Project Demos/Discussions and Workshop Wrapup</p>
+
+<p>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/LJmC-AKZt6E" width="560"></iframe></p>
 
 <p>&nbsp;</p>
 
